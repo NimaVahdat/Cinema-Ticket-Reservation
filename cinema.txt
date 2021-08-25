@@ -1,0 +1,31 @@
+azadi
+    God_Father | capacity -> 50
+        saturday 15-11-2019
+        15-17 17-19 19-21
+        sunday 16-11-2019
+        15-17 17-19 19-21
+    Inception | capacity -> 70
+        saturday 15-11-2019
+        16-18 18-20 20-22
+        sunday 16-11-2019
+        20-22
+        monday 17-11-2019
+        21-23
+    Black_Swan | capacity -> 20
+        saturday 15-11-2019
+        21-23
+        sunday 16-11-2019
+        21-23
+Kurosh_Cineplex
+    God_Father | capacity -> 150
+        sunday 16-11-2019
+        15-17 17-19 19-21
+    Inception | capacity -> 900
+        saturday 15-11-2019
+        16-18 18-20 20-22
+        monday 17-11-2019
+        18-20
+    Black_Swan | capacity -> 45
+        sunday 16-11-2019
+        21-23
+

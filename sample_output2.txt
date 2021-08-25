@@ -1,0 +1,21 @@
+Username (Jack) already exists!
+
+LOGIN SUCCESSFUL!
+
+RESERVATIONS for user (Jack)
+50 tickets for Inception at azadi on 15-11-2019 16-18
+20 tickets for Inception at azadi on 15-11-2019 16-18
+
+LOGIN SUCCESSFUL!
+
+RESERVATIONS for user (jill)
+You have no reservations yet!
+
+All Sans for azadi, Inception:
+saturday 15-11-2019 16-18 - Tickets left: 0
+saturday 15-11-2019 18-20 - Tickets left: 70
+saturday 15-11-2019 20-22 - Tickets left: 70
+sunday 16-11-2019 20-22 - Tickets left: 70
+monday 17-11-2019 21-23 - Tickets left: 70
+
+GOODBYE.
